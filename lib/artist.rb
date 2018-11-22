@@ -9,4 +9,3 @@ class Artist
 end
 
 artist = Artist.new
-song.artist = artist
