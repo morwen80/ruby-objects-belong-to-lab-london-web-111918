@@ -8,4 +8,4 @@ describe "Artist" do
   end
 end
 
-artist = Artist.new
+
